@@ -1,4 +1,4 @@
-![logo](https://images.ctfassets.net/lzny33ho1g45/learn-html-css-p-img/12978ef50623cf76538cfe18e1011fc5/file.png?w=1520&fm=jpg&q=30&fit=thumb&h=760)
+![logo](https://alpha-centauri-production.s3.amazonaws.com/uploads/content/174/header_image/header.jpg)
 
 <h1 align="center">Hi 👋, I'm Yiiding</h1>
 <h3 align="center">A passionate Student from Christmas Islands</h3>
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yiiding&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Yiiding" /> </p>
 
-- ⚡ Q. Why are keyboards always working so hard?
+- ⚡ Q. Why are keyboards always working so hard? <br/>
   A. Cause they have two shifts!😅
 
 <h3 align="left">Connect with me:</h3>
